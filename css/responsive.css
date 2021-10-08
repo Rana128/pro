@@ -1,0 +1,210 @@
+
+@media(max-width:992px){
+    .order_cart ul {
+        display: none;
+    }
+    .logo_part img{
+        display: none;
+    }
+    .order_cart ul {
+        display: none;
+    }
+    .top_heart ul {
+        display: none;
+    }
+    .order_header{
+        display: inherit;
+    }
+    .top_header_middle a {
+        display: none;
+    }
+    .order_header ul li a i {
+        font-size: 25px;
+    }
+    .navbar-light .navbar-brand {
+        display: inherit;
+    }
+    .top_header_middle a {
+        display: none;
+    }
+}
+@media(max-width:321px) and (min-width:220px){
+    .order_header {
+        display: none;
+    }
+    .top_header_middle a {
+        display: none;
+    }
+}
+/* mobile phone device os starts */
+@media(max-width:576px) and (min-width:320px){
+    .navbar-light .navbar-brand {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .selector{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .header_social ul {
+        margin-top: 18px;
+    }
+    .banner p{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .btn_shop {
+        padding: 10px 25px;
+        font-size: 18px;
+    }
+    .banner {
+        margin-top: 90px;
+    }
+    .product_price{
+        margin-bottom: 20px;
+    }
+    .dark_bg {
+        margin-bottom: 15px;
+    }
+    .img_hover {
+        margin-bottom: 15px;
+    }
+    .img_text a {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .service_section  h2{
+        font-size: 20px;
+    }
+    .service_hover {
+        margin-bottom: 15px;
+    }
+    .footer_form h5 {
+        font-size: 15px;
+    }
+    .footer_form form button {
+        padding: 10px 23px;
+        font-size: 15px;
+    }
+    .footer_form form input {
+        margin-bottom: 15px;
+    }
+    .footer_icon ul {
+        margin-bottom: 20px;
+    }
+    .footer_menu h6 {
+        font-size: 18px;
+        margin: 15px 0;
+        color: #ffab3f;
+    }
+    .top_header_left ul {
+        width: 50%;
+        margin: auto;
+    }
+    .women_text {
+        margin-bottom: 15px;
+    }
+    .happy_customer h1 {
+        font-size: 30px;
+    }
+    .happy_customer h5 {
+        font-size: 18px;
+    }
+    .camera_selete ul li {
+        font-size: 13px;
+    }
+    .camera_selete ul .Supplier a {
+        padding: 4px 5px;
+    }
+    .camera_icon {
+        top: 18%;
+        left: 83%;
+        transform: translate(-18%, -83%);
+    }
+}
+@media(max-width:768px) and (min-width:576px){
+    .product_price h5 {
+        font-size: 14px;
+    }
+    .banner {
+        margin-top: 54px;
+        text-align: center;
+    }
+    .img_text h4 {
+        font-size: 16px;
+    }
+    .img_text h4 span {
+        display: none;
+    }
+    .order_cart ul li a {
+        display: none;
+    }
+    .img_text a {
+        font-size: 12px;
+        padding: 7px 2px;
+    }
+    .service_text {
+        display: none;
+    }
+    .order_protection ul li a p {
+        font-size: 11px;
+    }
+    .order_protection ul li a h5 {
+        font-size: 16px;
+    }
+    .footer_menu h6 {
+        font-size: 16px;
+        color: #ffa93b;
+    }
+    .happy_customer h1 {
+        font-size: 45px;
+    }
+    .happy_customer h5 {
+        font-size: 22px;
+    }
+}
+@media(max-width:992px) and (min-width:768px){
+    .img_text a {
+        font-size: 11px;
+        padding: 8px 5px;
+    }
+    .service_text {
+        font-size: 8px;
+    }
+    .order_protection ul li a h5 {
+        font-size: 15px;
+    }
+    .order_protection ul li a p {
+        font-size: 11px;
+    }
+    .footer_menu h6 {
+        font-size: 16px;
+        color: #fea123;
+    }
+    .Woman_section h1 span {
+        color: #fff;
+    }
+    .product_price h5 {
+        font-size: 16px;
+    }
+    .happy_customer h1 {
+        font-size: 50px;
+    }
+    .happy_customer h5 {
+        font-size: 25px;
+    }
+    .camera_icon {
+        top: 30%;
+        left: 76%;
+        transform: translate(-30%, -76%);
+    }
+}
+@media(max-width:1200px) and (min-width:991px){
+    .service_text {
+        font-size: 15px;
+    }
+}
